@@ -93,12 +93,8 @@
 
 <h2 align="center">🤝 Support</h2>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), and 🔥 issues are most welcome!</p>
 
-<p align="center">🎉 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
 <p align="center">Thanks for stopping by! Let's build something amazing together! 🚀</p>
-</p>
 
 ---
 
@@ -110,10 +106,6 @@
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50"/>
-   </p>
 
 
 <p align="center">
